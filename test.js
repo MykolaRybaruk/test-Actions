@@ -1,4 +1,3 @@
-let a = "Hello"
+let masyw = ['jabluko', 'Orange', 'banana'];
 
-
-let b = "Hello2"
+console.log(masyw.map(e => e));
